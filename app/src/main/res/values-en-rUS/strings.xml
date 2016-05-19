@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Maps</string>
+    <string name="acerca">About us</string>
+
+    <string name="valledupar">Valledupar Cesar. welcome to the city of Vallenato.</string>
+
+    <string name="title_activity_hotels">Hotels</string>
+    <string name="bares"> Bars </string>
+    <string name="hotel"> hotels </string>
+    <string name="Sitios"> Tourist sites </string>
+    <string name="Demografía"> Demography </string>
+    <string name="title_activity_hoteles"> Hotels </string>
+    <string name="arawak"> Hotel arawak </string>
+    <string name="leyenda"> Hotel leyenda vallenata </string>
+    <string name="vajamar"> Hotel vajamar </string>
+<string name="inf_arawak"> Hotel Arawak information: \ n Address: Cra. 7 # 1650, Valledupar, Cesar \ n
+Region: Caribbean \ n Country: Colombia \ n Telephone: (5) 5854646 \ n Rooms from $ 58,500. \ N single bed, double bed, bañera, jacuzzi. \ N
+</string>
+<string name="inf_vajamar"> HOTEL Vajamar: \ n
+Subcategory: Hotel \ n Department: cesar \ n City or Town: valledupar \ n Address: Calle 16 A No. 7 \ n
+Phone: (5) 5743048 \ n web: http://www.hotelvajamar.com/ \</string>
+<string name="info_leyenda"> Hotel vallenato legend \ in Address: Calle 19B 11-50 N0, \ n City: valledupar \ n
+Region: Caribbean \ n Country: Colombia \ n Telephone: (5) 5843262/5852424 3205422273 \ n Website </string>
+    <string name="title_activity_bares"> Bars </string>
+    <string name="kankarua"> kankarua </string>
+    <string name="tierra_cantores"> tierra de cantores </string>
+    <string name="mama_juana"> mamajuana </string>
+    <string name="inf_kakarua">kankurua DISCOTECA: \ n Address: Cr 7 # 16 A-30 \ n valledupar \ n Phone: 05) 574 2164 </string>
+    <string name="inf_tierra"> BAR land of singers: \ n Address: Carrera 9 # 7B-16 Local 2 \ n valledupar \ n 50 \ n Telephone: 301 7566162</string>
+    <string name="inf_juana"> DISCOTECA mamajuana \ n Dirección:  Carrera 19 # 9-52 \ n valledupar \  </string>
+    <string name="title_activity_sitios"> Sitios </string>
+    <string name="obelisco"> the obelisk </string>
+    <string name="parque"> Park vallenato legend </string>
+    <string name="sirena"> Siren stolen and Guatapurí River </string>
+<string name="inf_sirena"> It is the work developed by Jorge Mestre and is located on the bank of river Guatapuri on a rock by
+reference to this legendary silhouette of this legend. It is one of the most important resorts in the region, it is formed in one of the wells
+Guatapuri river; born in the lagoon of Curigua, in the Sierra Nevada de Santa Marta and is acorazonado by predominant rocks. The Guatapurí River
+It is the quintessential spa vallenato. When you go, do not stop eating sausage, bun and typical foods of the region.". </string>
+<string name="inf_Parque"> Since 2004 the Vallenato Festival takes place, is an ecological, cultural and tourist site, has a capacity of seventeen thousand people.
+</string>
+    <string name="inf_obelisco"> This sculpture is at the entrance of Valledupar since 1994, arriving by way of Barranquilla and foundation, it is a tribute to life. </string>
+
+    <string name="title_activity_demografia"> Demografía </string>
+<string name="demo_valle"> In 2010, the municipality of Valledupar has a population, according to official projections of the DANE, the Municipality. Population growth has been explosive since the mid-twentieth century, with maximum growth rates in the 1960s and 1970s; today although population growth rates have been declining population still continues to grow rapidly due to immigration an increase of urban population to the detriment of the rural.
+
+Of the total population, 52.1porciento are women, 12.2 percent calls itself raizal, black, palenquero, black, or African American.
+The 88.3porciento of over 5 years literate, the enrollment rate between 5 and 18 years of age is 80 percent. 61.8 percent is high school, 19.4 percent studied a career either normalista,
+
+46.2 percent of those over 16 are unmarried, 25.9 live in free union and 17.6 percent are married, and 5 percent are separated or divorced.
+30 percent of the population of Valledupar was born in another municipality, and 0.2 percent in another country.
+Valledupar population grows at an annual rate of 1.32 percent, one of the highest nationwide.
+</string>
+
+    <string name="Ubicación_valledupar"> see Location </string>
+    <string name="title_activity_maps__arawa">Map</string>
+    <string name="title_activity_maps_leyenda">Map</string>
+    <string name="title_activity_maps_vajamar">Map</string>
+    <string name="title_activity_maps_tierradecantores">Map</string>
+    <string name="title_activity_mapskankarua">Map</string>
+    <string name="title_activity_mapsmamajuana">Map</string>
+    <string name="title_activity_mapsobeliso">Map</string>
+    <string name="title_activity_mapsparque">Map</string>
+    <string name="title_activity_mapssirenayrio">Map</string>
+    <string name="title_activity_mapsdemografia">Map</string>
+
+
+</resources>

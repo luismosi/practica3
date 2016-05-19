@@ -1,5 +1,6 @@
 package com.example.gabriel.practica3;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
@@ -47,6 +48,25 @@ public class Hotels extends AppCompatActivity {
 
             }
         });
+    }
+
+    public void ubicacion_vajamar(View View)
+
+    {
+        Intent vajamar = new Intent(this, Maps_vajamar.class);
+        startActivity(vajamar);
+    }
+    public void ubicacion_arawak(View View)
+
+    {
+        Intent arawak = new Intent(this, Maps_Arawa.class);
+        startActivity(arawak);
+
+    }
+    public void Mleyenda(View view){
+
+        Intent leyenda = new Intent(this, Maps_leyenda.class);
+        startActivity(leyenda);
     }
 
 }

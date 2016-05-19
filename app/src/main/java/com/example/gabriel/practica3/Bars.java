@@ -1,5 +1,6 @@
 package com.example.gabriel.practica3;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
@@ -51,5 +52,24 @@ public class Bars extends AppCompatActivity {
 
 
     }
+    public void Kankarua(View View)
+
+    {
+        Intent k = new Intent(this, Mapskankarua.class);
+        startActivity(k);
+    }
+    public void Mama_juana(View View)
+
+    {
+        Intent m = new Intent(this, Mapsmamajuana.class);
+        startActivity(m);
+
+    }
+    public void Tierra_cantores(View view){
+
+        Intent t= new Intent(this, Maps_tierradecantores.class);
+        startActivity(t);
+    }
+
 
 }

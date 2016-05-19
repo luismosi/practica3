@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
+
 public class MainActivity extends AppCompatActivity {
     private Button hotels, bars, lugares, acerca, demography ;
 
@@ -17,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
         hotels = (Button) findViewById(R.id.hotels);
         bars = (Button)findViewById(R.id.bars);
         lugares = (Button)findViewById(R.id.lugares);
-        acerca = (Button)findViewById(R.id.acerca);
     }
     public void mostrar(View View)
 
@@ -40,13 +40,8 @@ public class MainActivity extends AppCompatActivity {
         startActivity(home);
 
     }
-    public void mostrar2(View View)
 
-    {
-        Intent soy = new Intent(this, Acerca.class);
-        startActivity(soy);
 
-    }
     public void mostrar_demo(View View)
 
     {
@@ -54,4 +49,5 @@ public class MainActivity extends AppCompatActivity {
         startActivity(demo);
 
     }
-}
+
+   }

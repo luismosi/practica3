@@ -1,5 +1,6 @@
 package com.example.gabriel.practica3;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
@@ -49,5 +50,21 @@ public class Lugares extends AppCompatActivity {
             }
         });
 
+    }
+    public void ubicacion_sirena(View view){
+
+        Intent demografo = new Intent(this, Mapssirenayrio.class);
+        startActivity(demografo);
+    }
+    public void ubicacion_vallenata(View view){
+
+        Intent demografo = new Intent(this, Mapsparque.class);
+        startActivity(demografo);
+    }
+
+    public void ubicacion_obelisco(View view){
+
+        Intent demografo = new Intent(this, Mapsobeliso.class);
+        startActivity(demografo);
     }
 }
