@@ -27,13 +27,28 @@
             android:layout_height="100dp"
                 android:src="@drawable/cantores"
             android:id="@+id/tierra_cantores"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textSize="20dp"
-            android:layout_gravity="center_vertical"
-            android:text="@string/tierra_cantores"
-            android:textColor="@color/red"/>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="20dp"
+                    android:layout_gravity="center_vertical"
+                    android:text="@string/tierra_cantores"
+                    android:textColor="@color/red"/>
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/Ubicación_valledupar"
+                    android:onClick="Tierra_cantores"/>
+
+
+
+            </LinearLayout>
 
     </LinearLayout>
     <LinearLayout
@@ -46,13 +61,29 @@
             android:layout_height="100dp"
             android:src="@drawable/kankaragua"
             android:id="@+id/kanakrua"/>
-        <TextView
+
+        <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="20dp"
-            android:layout_gravity="center_vertical"
-            android:text="@string/kankarua"
-            android:textColor="@color/red"/>
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:layout_gravity="center_vertical"
+                android:text="@string/kankarua"
+                android:textColor="@color/red"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Ubicación_valledupar"
+                android:onClick="Kankarua"/>
+
+
+
+        </LinearLayout>
+
 
     </LinearLayout>
     <LinearLayout
@@ -66,13 +97,29 @@
             android:layout_height="100dp"
             android:src="@drawable/mama_juana"
             android:id="@+id/mamajuana"/>
-        <TextView
+
+
+        <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="20dp"
-            android:layout_gravity="center_vertical"
-            android:text="@string/mama_juana"
-            android:textColor="@color/red"/>
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:layout_gravity="center_vertical"
+                android:text="@string/mama_juana"
+                android:textColor="@color/red"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Ubicación_valledupar"
+                android:onClick="Mama_juana"/>
+
+
+
+        </LinearLayout>
     </LinearLayout>
 
     <LinearLayout

@@ -22,13 +22,29 @@
             android:layout_height="100dp"
             android:src="@drawable/arawk"
             android:id="@+id/arawak"/>
-        <TextView
+
+        <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="20dp"
-            android:layout_gravity="center_vertical"
-            android:text="@string/arawak"
-            android:textColor="@color/yellow"/>
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:layout_gravity="center_vertical"
+                android:text="@string/arawak"
+                android:textColor="@color/yellow"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Ubicación_valledupar"
+                android:onClick="ubicacion_arawak"/>
+
+
+
+        </LinearLayout>
 
     </LinearLayout>
     <LinearLayout
@@ -41,13 +57,32 @@
             android:layout_height="150dp"
             android:src="@drawable/leyenda"
             android:id="@+id/leyenda"/>
-        <TextView
+
+        <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="20dp"
-            android:layout_gravity="center_vertical"
-            android:text="@string/leyenda"
-            android:textColor="@color/yellow"/>
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:layout_gravity="center_vertical"
+                android:text="@string/leyenda"
+                android:textColor="@color/yellow"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Ubicación_valledupar"
+                android:onClick="Mleyenda"/>
+
+
+
+        </LinearLayout>
+
+
+
+
 
     </LinearLayout>
     <LinearLayout
@@ -61,13 +96,31 @@
             android:layout_height="100dp"
             android:src="@drawable/vajamar"
             android:id="@+id/vajamar"/>
-        <TextView
+
+
+        <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="20dp"
-            android:layout_gravity="center_vertical"
-            android:text="@string/vajamar"
-            android:textColor="@color/yellow"/>
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:layout_gravity="center_vertical"
+                android:text="@string/vajamar"
+                android:textColor="@color/yellow"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Ubicación_valledupar"
+                android:onClick="ubicacion_vajamar"
+                android:layout_gravity="center_vertical"/>
+
+
+
+        </LinearLayout>
     </LinearLayout>
 
     <LinearLayout

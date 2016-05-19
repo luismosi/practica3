@@ -87,18 +87,7 @@
             android:onClick="mostrarlugares"/>
 
     </LinearLayout>
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center">
 
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/acerca"
-            android:onClick="mostrar2"
-            android:id="@+id/acerca"/>
-    </LinearLayout>
 
 </LinearLayout>
     </ScrollView>

@@ -26,13 +26,28 @@
             android:layout_height="150dp"
             android:src="@drawable/obelisco"
             android:id="@+id/obelisco"/>
-        <TextView
+
+        <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="20dp"
-            android:layout_gravity="center_vertical"
-            android:text="@string/obelisco"
-            android:textColor="@color/yellow"/>
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:layout_gravity="center_vertical"
+                android:text="@string/obelisco"
+                android:textColor="@color/maroon"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Ubicación_valledupar"
+                android:onClick="ubicacion_obelisco"/>
+
+
+
+        </LinearLayout>
 
     </LinearLayout>
     <LinearLayout
@@ -45,13 +60,28 @@
             android:layout_height="200sp"
             android:src="@drawable/parquevallenata"
             android:id="@+id/parquevallenata"/>
-        <TextView
+
+        <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="20dp"
-            android:layout_gravity="center_vertical"
-            android:textColor="@color/yellow"
-            android:text="@string/parque"/>
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:layout_gravity="center_vertical"
+                android:textColor="@color/maroon"
+                android:text="@string/parque"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Ubicación_valledupar"
+                android:onClick="ubicacion_vallenata"/>
+
+
+
+        </LinearLayout>
 
     </LinearLayout>
     <LinearLayout
@@ -65,13 +95,29 @@
             android:layout_height="130dp"
             android:src="@drawable/sirena"
             android:id="@+id/sirena"/>
-        <TextView
+
+
+        <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="20dp"
-            android:layout_gravity="center_vertical"
-            android:text="@string/sirena"
-            android:textColor="@color/yellow"/>
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:layout_gravity="center_vertical"
+                android:text="@string/sirena"
+                android:textColor="@color/maroon"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Ubicación_valledupar"
+                android:onClick="ubicacion_sirena"/>
+
+
+
+        </LinearLayout>
     </LinearLayout>
 
     <LinearLayout

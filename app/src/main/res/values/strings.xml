@@ -1,48 +1,49 @@
 <resources>
     <string name="app_name">practica3</string>
+    <string name="valledupar">Valledupar Cesar. Bienvenido, Conoce la tierra del Vallenato</string>
     <string name="acerca">acerca de nosotros</string>
     <string name="luismosi">Luis Gabriel Morales Sierra: \  edad:23 \ sexo: masculino \  megusta el futbol me encanta ver jugar al el barsa, a boca y el rojo (dim) megustaria poder se un buen ejemplo para mi hija que esta por nacer
         que encuentre en su padre un buen ejemplo. poder terminar la universida para darles un mejor vivir. soy muy amigable recochero no me gusta que me saquen la piedra por que cojo rabia con mucha facilidad.
         soy de montelibano cordoba.
          </string>
     <string name="title_activity_hotels">Hotels</string>
-    <string name = "bares"> Bares </string>
-    <string name = "hotel"> Hoteles </string>
-    <string name = "Sitios"> Sitios Turisticos </string>
-    <string name = "Demografía"> Demografía </string>
-    <string name = "title_activity_hoteles"> Hoteles </string>
-    <string name = "arawak"> Hotel arawak </string>
-    <string name = "leyenda"> Hotel leyenda vallenata </string>
-    <string name = "vajamar"> Hotel vajamar </string>
-    <string name = "inf_arawak" > Información Hotel arawak: \ n Dirección:  Cra. 7 #1650, Valledupar, Cesar\ n
+    <string name="bares"> Bares </string>
+    <string name="hotel"> Hoteles </string>
+    <string name="Sitios"> Sitios Turisticos </string>
+    <string name="Demografía"> Demografía </string>
+    <string name="title_activity_hoteles"> Hoteles </string>
+    <string name="arawak"> Hotel arawak </string>
+    <string name="leyenda"> Hotel leyenda vallenata </string>
+    <string name="vajamar"> Hotel vajamar </string>
+    <string name="inf_arawak"> Información Hotel arawak: \ n Dirección:  Cra. 7 #1650, Valledupar, Cesar\ n
         Región: caribe \ n País: Colombia \ n Teléfono: (5) 5854646\ n Habitaciones desde $ 58.500. \ N sencilla Cama, cama doble, bañera ¿, jacuzzi. \ N
          </string>
-    <string name = "inf_vajamar" > HOTEL vajamar: \ n
+    <string name="inf_vajamar"> HOTEL vajamar: \ n
         Subcategoria: Hotel \ n Departamento: cesar \ n Ciudad o Municipio: valledupar \ n Dirección: Calle 16 A # 7 \ n
         Teléfono: (5) 5743048 \ n web: http://www.hotelvajamar.com/ \</string>
-    <string name = "info_leyenda" > Hotel leyenda vallenata \ n Dirección: Calle 19B N0 11-50, \ n Ciudad: valledupar \ n
+    <string name="info_leyenda"> Hotel leyenda vallenata \ n Dirección: Calle 19B N0 11-50, \ n Ciudad: valledupar \ n
         Región: caribe \ n País: Colombia \ n Teléfono: (5)  5843262/5852424 3205422273 \ n Página Web </string>
-    <string name = "title_activity_bares" > Bares </string>
-    <string name = "kankarua" > kankarua </string>
-    <string name = "tierra_cantores" > tierra de cantores </string>
-    <string name = "mama_juana" > mamajuana </string>
-    <string name = "inf_kakarua" > DISCOTECA kankarua: \ n Dirreción:  Cr7 16 a-30 \ n valledupr \ n Teléfono: 05) 5742164 </string>
-    <string name = "inf_tierra" > BAR tierra de cantores: \ n Dirección: Carrera 9 # 7B-16 Local 2 \ n valledupar \ n 50 \ n Teléfono: 301 7566162 </string>
-    <string name = "inf_juana" > DISCOTECA mamajuana \ n Dirección:  Carrera 19 # 9-52 \ n valledupar \  </string>
-    <string name = "title_activity_sitios" > Sitios </string>
-    <string name = "obelisco" > el obelisco </string>
-    <string name = "parque" > parque de la leyenda vallenata </string>
-    <string name = "sirena" > la sirena de hurtado y rio guatapuri </string>
-    <string name = "inf_sirena" > Es la obra elaborada por el maestro Jorge Mestre y se encuentra en la orilla del río Guatapuri, sobre una roca haciendo
+    <string name="title_activity_bares"> Bares </string>
+    <string name="kankarua"> kankarua </string>
+    <string name="tierra_cantores"> tierra de cantores </string>
+    <string name="mama_juana"> mamajuana </string>
+    <string name="inf_kakarua"> DISCOTECA kankarua: \ n Dirreción:  Cr7 16 a-30 \ n valledupr \ n Teléfono: 05) 5742164 </string>
+    <string name="inf_tierra"> BAR tierra de cantores: \ n Dirección: Carrera 9 # 7B-16 Local 2 \ n valledupar \ n 50 \ n Teléfono: 301 7566162 </string>
+    <string name="inf_juana"> DISCOTECA mamajuana \ n Dirección:  Carrera 19 # 9-52 \ n valledupar \  </string>
+    <string name="title_activity_sitios"> Sitios </string>
+    <string name="obelisco"> el obelisco </string>
+    <string name="parque"> parque de la leyenda vallenata </string>
+    <string name="sirena"> la sirena de hurtado y rio guatapuri </string>
+    <string name="inf_sirena"> Es la obra elaborada por el maestro Jorge Mestre y se encuentra en la orilla del río Guatapuri, sobre una roca haciendo
         referencia a esta mítica silueta de esta leyenda. Es uno de los balnearios más importantes de la región, se forma en uno de los pozos
         del rio Guatapuri; nace en la laguna de Curigua, en la Sierra Nevada de Santa Marta y se encuentra acorazonado por predominantes rocas. El Río Guatapurí
         es el balneario por excelencia de los Vallenatos. Cuando vayas, no dejes de comer butifarra, bollo y las comidas típicas de la región.". </string>
-    <string name = "inf_parque" >Desde 2004 se realiza el Festival Vallenato, es un sitio ecológico, cultural y turístico, tiene una capacidad para diecisiete mil personas.
+    <string name="inf_parque">Desde 2004 se realiza el Festival Vallenato, es un sitio ecológico, cultural y turístico, tiene una capacidad para diecisiete mil personas.
     </string>
-    <string name = "inf_obelisco" > Esta escultura está en la entrada de Valledupar desde 1994, por la vía que llega de Barranquilla y fundación, es un homenaje a la vida. </string>
+    <string name="inf_obelisco"> Esta escultura está en la entrada de Valledupar desde 1994, por la vía que llega de Barranquilla y fundación, es un homenaje a la vida. </string>
 
-    <string name = "title_activity_demografia" > Demografía </string>
-    <string name = "demo_valle" > En 2010, el municipio de Valledupar tiene una población, según proyecciones oficiales del DANE, el Municipio. El crecimiento demografico ha sido explosivo desde mediados del siglo XX, con máximas tasas de crecimiento en las décadas de 1960 y 1970; en la actualidad aunque las tasas de crecimiento demográfico han ido disminuyendo todavía la población continúa creciendo de forma rápida, debido a la inmigración que supone un aumento de la población urbana en detrimento de la rural.
+    <string name="title_activity_demografia"> Demografía </string>
+    <string name="demo_valle"> En 2010, el municipio de Valledupar tiene una población, según proyecciones oficiales del DANE, el Municipio. El crecimiento demografico ha sido explosivo desde mediados del siglo XX, con máximas tasas de crecimiento en las décadas de 1960 y 1970; en la actualidad aunque las tasas de crecimiento demográfico han ido disminuyendo todavía la población continúa creciendo de forma rápida, debido a la inmigración que supone un aumento de la población urbana en detrimento de la rural.
 
         Del total de la población, el 52.1porciento son mujeres, el 12.2 porciento se autodenomina raizal, negro, palenquero, mulato o afroamericano.
         El 88.3porciento de los mayores de 5 años sabe leer y escribir, la tasa de escolaridad entre los 5 y 18 años de edad es del 80 porciento. El 61.8 porciento es bachiller, el 19.4 porciento estudió alguna carrera ya sea normalista,
@@ -51,5 +52,17 @@
         El 30 porciento de la población de Valledupar nació en otro municipio, y el 0.2 porciento en otro país.
         La población de Valledupar crece a una tasa anual del 1.32 porciento, una de las más altas a nivel nacional.
     </string>
+
+    <string name="Ubicación_valledupar"> Ver Ubicación </string>
+    <string name="title_activity_maps__arawa">Map</string>
+    <string name="title_activity_maps_leyenda">Map</string>
+    <string name="title_activity_maps_vajamar">Map</string>
+    <string name="title_activity_maps_tierradecantores">Map</string>
+    <string name="title_activity_mapskankarua">Map</string>
+    <string name="title_activity_mapsmamajuana">Map</string>
+    <string name="title_activity_mapsobeliso">Map</string>
+    <string name="title_activity_mapsparque">Map</string>
+    <string name="title_activity_mapssirenayrio">Map</string>
+    <string name="title_activity_mapsdemografia">Map</string>
 
 </resources>
